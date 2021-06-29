@@ -1,0 +1,2 @@
+# XLAppResourcesAnalysis
+分析APP安装包内的资源文件大小脚本
