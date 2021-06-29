@@ -13,7 +13,7 @@ Ruby  app_resources_analysis.rb  参数1
 
 ----- end analysis -----
 
-[Tips:处理结束之后，结果以html报表形式展示，查看路径是当ruby脚本所在的同级目录中
+[Tips:处理结束之后，结果以html报表形式展示，查看路径是当ruby脚本所在的同级目录中]
 
 # 如何获取LinkMap文件
 
