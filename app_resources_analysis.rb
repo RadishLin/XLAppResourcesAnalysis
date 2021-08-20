@@ -116,8 +116,8 @@ BEGIN {
    if ARGV.empty?
      puts "exit，argument error！"
      exit
+   end
    
-
    if !File.directory?(ARGV.first)
      puts "exit，argument invalid！"
      exit
