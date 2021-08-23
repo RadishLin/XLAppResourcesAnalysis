@@ -8,6 +8,7 @@ $LIBCRYPTO      = "libcrypto.a"
 $LIBSSL         = "libssl.a"
 $XCWORKSPACE    = ".xcworkspace"
 $GIT            = ".git"
+$PODS           = "Pods"
 $IMAGESET_TAG   = ".imageset"
 $CONTENTS_JSON  = "Contents.json"
 $HTML_CONTENT   = "<h2 align=center>iOS Resources Analysis 数据</h2>" \
