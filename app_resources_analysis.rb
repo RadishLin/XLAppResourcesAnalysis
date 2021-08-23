@@ -83,7 +83,7 @@ module Analysis
     end
 
     def filer_path_vaild(path)
-      if path.include?($LIBCRYPTO) or path.include?($LIBSSL) or path.include?($XCWORKSPACE) or path.include?($GIT)
+      if path.include?($LIBCRYPTO) or path.include?($LIBSSL) or path.include?($XCWORKSPACE) or path.include?($GIT) or path.include?($PODS)
         return false
       elsif File.extname(path) == ""
         return false
